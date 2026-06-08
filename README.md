@@ -3,6 +3,17 @@
 
 ---
 
+## 🚀 About Me
+
+I'm a passionate **Computer Science Engineering** student at **IIIT Dharwad** (2024–2028), specializing in **Full-Stack Development** and **Generative AI**. I'm dedicated to building innovative solutions and empowering tech communities.
+
+- 🔭 Currently working on **AI-powered applications** and **full-stack projects**
+- 🌱 Exploring **Generative AI**, **Cloud Computing**, and **DevOPS techniques**
+- 👯 Looking to collaborate on **open source projects** and **innovative startups**
+- 💬 Ask me about **Full-Stack Development**, **Cloud Cmputing**, or **React & Node.js**
+- 📫 How to reach me: Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/tejas-h-blitz)
+- ⚡ Fun fact: I love **competitive programming** and **building side projects**
+
 ## 🧠 Tech Stack
 
 ### Languages
