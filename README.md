@@ -1,5 +1,5 @@
 # Hi there, I'm Tejas H 👋
-🚀 Full Stack Developer | React • Node.js • MongoDB
+🚀 Full Stack Developer | React • Node.js • MongoDB 
 
 ---
 
