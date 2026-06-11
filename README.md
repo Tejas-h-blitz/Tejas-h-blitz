@@ -65,12 +65,6 @@ A campus companion app designed to help students navigate college life — resou
 
 ---
 
-## 📊 GitHub Stats
-
-![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejas-h-blitz&show_icons=true&theme=radical)
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-h-blitz)
