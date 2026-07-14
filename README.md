@@ -13,7 +13,7 @@ I'm a passionate **Computer Science Engineering** student at **IIIT Dharwad** (2
 - 💬 Ask me about **Full-Stack Development**, **Cloud Computing**, or **React & Node.js**
 - 📫 How to reach me: Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/tejas-h-blitz)
 - ⚡ Fun fact: I love **competitive programming** and **building side projects**
-
+ 
 ## 🧠 Tech Stack
 
 ### Languages
