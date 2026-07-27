@@ -52,24 +52,19 @@ I'm a passionate **Computer Science Engineering** student at **IIIT Dharwad** (2
 
 ## 🔥 Featured Projects
 
+### ⚡ AWS Distributed Reservation Ledger
+A high-concurrency, event-driven inventory reservation and transaction ledger engine. Implements distributed transactions via the Saga pattern, Redis-to-DynamoDB fallback for fault tolerance, Token-Bucket rate limiting, and structured JSON request tracing.
+**Tech:** AWS Step Functions • DynamoDB • Redis • TypeScript • Docker
+
 ### 🤖 Beacon-AI — AI Career Coach
-**Tech Stack:** Gemini AI, Next.js, Node.js, Neon Postgres, LangChain, Shadcn UI, Vercel  
-An intelligent career guidance tool that analyzes resumes, identifies skill gaps, generates interview questions, and offers personalized career roadmaps using AI.
+A full-stack AI career coach that conducts realistic mock interviews and scores resumes for ATS compatibility. Uses LangChain-orchestrated Gemini prompts for personalized skill-gap roadmaps, Inngest for async background jobs, and Clerk for authentication.
+**Tech:** LangChain • Gemini AI • Next.js • Neon Postgres • Clerk • Inngest
 
-### 🏠 Real-Estate — Real Estate Platform
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB  
-A full-stack real estate platform for browsing, listing, and managing properties with a modern UI and seamless user experience.
-
-### 📍 Real-Time-Location-Tracker
-**Tech Stack:** Node.js, Socket.io, Leaflet.js, Express.js  
-A real-time location tracking application that displays live user positions on an interactive map using WebSockets.
-
-### 🎓 Allie — Your Campus Ally
-**Tech Stack:** React.js, Node.js, MongoDB, Express.js  
-A campus companion app designed to help students navigate college life — resources, events, and peer connections in one place.
+### 🧮 Querion — AI SQL Query Optimizer
+An AI-assisted SQL optimizer that parses queries into an AST using sqlglot and simulates hypothetical indexes with HypoPG. Streams optimization reasoning via SSE, renders visual query plans with D3.js, and shows AI-suggested rewrites in a Monaco diff viewer.
+**Tech:** sqlglot • HypoPG • Gemini AI • Next.js • FastAPI • PostgreSQL • D3.js
 
 ---
-
 
 ## 🤝 Connect With Me
 
