@@ -69,7 +69,7 @@ An AI-assisted SQL optimizer that parses queries into an AST using sqlglot and s
 
 ---
 
-![Tejas H's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tejas-h-blitz&bg_color=0d1117&color=4a7fc9&line=4a7fc9&point=ffffff&hide_border=true&custom_title=Tejas%20H's%20Contribution%20Graph)
+![Tejas H's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tejas-h-blitz&bg_color=0d1117&color=4a7fc9&line=4a7fc9&point=ffffff&area=true&area_color=4a7fc9&hide_border=true&custom_title=Tejas%20H's%20Contribution%20Graph)
 
 ## 🤝 Connect With Me
 
