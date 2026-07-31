@@ -8,7 +8,7 @@
  
 ## 🚀 About Me
  
-I'm a passionate **Computer Science Engineering** student at **IIIT Dharwad** (2024–2028), specializing in **Full-Stack Development** and **Generative AI**. I'm dedicated to building innovative solutions and empowering tech communities.
+CSE '28 @ IIIT Dharwad. I build backend systems that hold up under load.
 
 
 - ⚡ Built a distributed reservation ledger — Saga pattern, Redis→DynamoDB fallback, 229 RPS @ p95 315ms
