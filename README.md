@@ -10,12 +10,14 @@
  
 I'm a passionate **Computer Science Engineering** student at **IIIT Dharwad** (2024–2028), specializing in **Full-Stack Development** and **Generative AI**. I'm dedicated to building innovative solutions and empowering tech communities.
 
-- 🔭 Currently working on **AI-powered applications** and **full-stack projects**
-- 🌱 Exploring **Generative AI**, **Cloud Computing**, and **DevOPS techniques**
-- 👯 Looking to collaborate on **open source projects** and **innovative startups**
-- 💬 Ask me about **Full-Stack Development**, **Cloud Computing**, or **React & Node.js**
-- 📫 How to reach me: Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/tejas-h-blitz)
-- ⚡ Fun fact: I love **competitive programming** and **building side projects**
+
+- ⚡ Built a distributed reservation ledger — Saga pattern, Redis→DynamoDB fallback, 229 RPS @ p95 315ms
+- 🧠 Shipped an AI SQL optimizer that rewrites queries using hypothetical index simulation (Querion)
+- 🤖 Built an AI career coach with LLM-driven mock interviews and ATS scoring (Beacon-AI)
+- 🌐 Comfortable across the stack: from AWS infra to React UIs
+- 📖 I read production postmortems for fun
+- 💼 Full-Stack Development intern @ CodeAlpha
+- 📫 Always open to connecting — reach me on [LinkedIn](https://www.linkedin.com/in/tejas-h-blitz)
  
 ## 🧠 Tech Stack
 
