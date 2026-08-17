@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;Distributed+Systems+Enthusiast;Open+Source+Contributor)
 
 </div>
-  
+   
 ## 🚀 About Me
  
 CSE '28 @ IIIT Dharwad. I build backend systems that hold up under load.
