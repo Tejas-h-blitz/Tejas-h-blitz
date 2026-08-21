@@ -10,7 +10,7 @@
  
 CSE '28 @ IIIT Dharwad. I build backend systems that hold up under load.
 
-
+ 
 - ⚡ Built a distributed reservation ledger — Saga pattern, Redis→DynamoDB fallback, 229 RPS @ p95 315ms
 - 🧠 Shipped an AI SQL optimizer that rewrites queries using hypothetical index simulation (Querion)
 - 🤖 Built an AI career coach with LLM-driven mock interviews and ATS scoring (Beacon-AI)
