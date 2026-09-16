@@ -10,6 +10,10 @@
  
 CSE '28 @ IIIT Dharwad. I build backend systems that hold up under load.
 
+> **How I approach a new system:**
+> Read the spec for what breaks it, not what it promises.
+> Design for the failure mode first.
+> Ship it, then measure — never trust an unmeasured number.
  
 - ⚡ Built a distributed reservation ledger — Saga pattern, Redis→DynamoDB fallback, 229 RPS @ p95 315ms
 - 🧠 Shipped an AI SQL optimizer that rewrites queries using hypothetical index simulation (Querion)
@@ -71,6 +75,7 @@ An AI-assisted SQL optimizer that parses queries into an AST using sqlglot and s
 **Tech:** sqlglot • HypoPG • Gemini AI • Next.js • FastAPI • PostgreSQL • D3.js
 
 ---
+
 
 
 ## 🤝 Connect With Me
