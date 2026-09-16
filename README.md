@@ -10,10 +10,6 @@
  
 CSE '28 @ IIIT Dharwad. I build backend systems that hold up under load.
 
-> **How I approach a new system:**
-> Read the spec for what breaks it, not what it promises.
-> Design for the failure mode first.
-> Ship it, then measure — never trust an unmeasured number.
  
 - ⚡ Built a distributed reservation ledger — Saga pattern, Redis→DynamoDB fallback, 229 RPS @ p95 315ms
 - 🧠 Shipped an AI SQL optimizer that rewrites queries using hypothetical index simulation (Querion)
@@ -22,6 +18,11 @@ CSE '28 @ IIIT Dharwad. I build backend systems that hold up under load.
 - 📖 I read production postmortems for fun
 - 💼 Full-Stack Development intern @ CodeAlpha
 - 📫 Always open to connecting — reach me on [LinkedIn](https://www.linkedin.com/in/tejas-h-blitz)
+
+> **How I approach a new system:**
+> Read the spec for what breaks it, not what it promises.
+> Design for the failure mode first.
+<br> Ship it, then measure — never trust an unmeasured number.
 
  
 ## 🧠 Tech Stack
