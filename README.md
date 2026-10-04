@@ -74,7 +74,7 @@ A full-stack AI career coach that conducts realistic mock interviews and scores 
 ### 🧮 Querion — AI SQL Query Optimizer
 An AI-assisted SQL optimizer that parses queries into an AST using sqlglot and simulates hypothetical indexes with HypoPG. Streams optimization reasoning via SSE, renders visual query plans with D3.js, and shows AI-suggested rewrites in a Monaco diff viewer.
 **Tech:** sqlglot • HypoPG • Gemini AI • Next.js • FastAPI • PostgreSQL • D3.js
-
+ 
 ---
 
 
