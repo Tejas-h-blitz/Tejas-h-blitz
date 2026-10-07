@@ -77,7 +77,17 @@ An AI-assisted SQL optimizer that parses queries into an AST using sqlglot and s
  
 ---
 
+---
 
+## 🌱 Open Source
+
+### ✅ Checkstyle
+Fixed [#21177](https://github.com/checkstyle/checkstyle/issues/21177): the test input violation comment parser now auto-escapes `[` and `]` regex metacharacters, matching how parentheses and curly braces were already handled. Followed up by cleaning up the 27 affected input files and removing the now-unneeded `ArrayBracketNoWhitespace` suppression.
+**Tech:** Java • Regex • Checkstyle test infrastructure
+
+### 🔍 AutoMQ
+Reviewed [PR #3528](https://github.com/AutoMQ/automq/pull/3528), a Java `CompletableFuture` refactoring in AutoMQ, the cloud-native Kafka alternative built on object storage.
+**Tech:** Java • Async programming • Distributed messaging
 
 ## 🤝 Connect With Me
 
