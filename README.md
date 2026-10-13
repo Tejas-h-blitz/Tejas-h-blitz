@@ -23,7 +23,7 @@ CSE '28 @ IIIT Dharwad. I build backend systems that hold up under load.
 > Read the spec for what breaks it, not what it promises.
 > Design for the failure mode first.
 <br> Ship it, then measure — never trust an unmeasured number.
-
+ 
  
 ## 🧠 Tech Stack
  
