@@ -18,7 +18,7 @@ CSE '28 @ IIIT Dharwad. I build backend systems that hold up under load.
 - 📖 I read production postmortems for fun
 - 💼 Full-Stack Development intern @ CodeAlpha
 - 📫 Always open to connecting — reach me on [LinkedIn](https://www.linkedin.com/in/tejas-h-blitz)
-
+ 
 > **How I approach a new system:**
 > Read the spec for what breaks it, not what it promises.
 > Design for the failure mode first.
