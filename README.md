@@ -1,8 +1,8 @@
-# Hi there, I'm Tejas H 👋
-   
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e2a44&height=190&section=header&text=Tejas%20H%20%20%C2%B7%20%20CSE%20'28%20%20%C2%B7%20%20IIIT%20Dharwad&fontColor=c5d3ee&fontSize=33&fontAlignY=42" width="100%" />
+
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;Distributed+Systems+Enthusiast;Open+Source+Contributor)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=C9D1D9&center=true&vCenter=true&width=600&height=40&lines=Backend+%26+Distributed+Systems+Enthusiast;I+design+for+the+failure+mode+first;Open+Source+Contributor+at+Checkstyle;Competitive+Programmer" alt="Typing SVG" /></a>
 
 </div>
    
@@ -41,8 +41,7 @@ CSE '28 @ IIIT Dharwad. I build backend systems that hold up under load.
         <li><b>Token-bucket rate limiting</b> and a <b>circuit breaker</b> to contain cascading failures</li>
         <li>Load-tested at <b>229 RPS, p95 315 ms</b></li>
       </ul>
-      <sub>TypeScript · AWS Step Functions · DynamoDB · Redis</sub><br><br>
-      <a href="https://github.com/Tejas-h-blitz/Aws-Distributed-Reservation-Ledger"><img src="https://img.shields.io/badge/View_Project-1a1a1a?style=flat-square&logo=github&logoColor=white" /></a>
+      <sub>TypeScript · AWS Step Functions · DynamoDB · Redis</sub>
     </td>
     <td width="50%" valign="top">
       <h3>Beacon-AI: AI Career Coach</h3>
@@ -53,8 +52,7 @@ CSE '28 @ IIIT Dharwad. I build backend systems that hold up under load.
         <li>Secure authentication with <b>Clerk</b> and data stored in <b>Neon serverless Postgres</b></li>
         <li>Designed and built end to end by one developer</li>
       </ul>
-      <sub>Next.js · LangChain · Gemini · Neon Postgres · Clerk · Inngest</sub><br><br>
-      <a href="https://github.com/Tejas-h-blitz/REPO-NAME"><img src="https://img.shields.io/badge/View_Project-1a1a1a?style=flat-square&logo=github&logoColor=white" /></a>
+      <sub>Next.js · LangChain · Gemini · Neon Postgres · Clerk · Inngest</sub>
     </td>
   </tr>
   <tr>
@@ -67,8 +65,7 @@ CSE '28 @ IIIT Dharwad. I build backend systems that hold up under load.
         <li>Typed data layer with <b>Prisma</b> and <b>PostgreSQL</b>, with <b>Clerk</b> for multi-user auth</li>
         <li>Built end to end in <b>TypeScript</b> (Node/Express API, React + Vite frontend)</li>
       </ul>
-      <sub>TypeScript · Node/Express · Prisma · PostgreSQL · React · Tailwind</sub><br><br>
-      <a href="https://github.com/Tejas-h-blitz/REPO-NAME"><img src="https://img.shields.io/badge/View_Project-1a1a1a?style=flat-square&logo=github&logoColor=white" /></a>
+      <sub>TypeScript · Node/Express · Prisma · PostgreSQL · React · Tailwind</sub>
     </td>
     <td width="50%" valign="top">
       <h3>Querion</h3>
@@ -79,16 +76,21 @@ CSE '28 @ IIIT Dharwad. I build backend systems that hold up under load.
         <li><b>Gemini</b> explains bottlenecks and suggests rewrites, streamed over <b>Server-Sent Events</b></li>
         <li><b>Monaco diff viewer</b> for rewrites and <b>D3.js</b> visualizations of plan costs</li>
       </ul>
-      <sub>Next.js · FastAPI · PostgreSQL · sqlglot · HypoPG · Gemini · D3.js</sub><br><br>
-      <a href="https://github.com/Tejas-h-blitz/REPO-NAME"><img src="https://img.shields.io/badge/View_Project-1a1a1a?style=flat-square&logo=github&logoColor=white" /></a>
+      <sub>Next.js · FastAPI · PostgreSQL · sqlglot · HypoPG · Gemini · D3.js</sub>
     </td>
   </tr>
 </table>
 
+
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-h-blitz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tejas_h_06)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejashtejuhtj@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/tejas-h-blitz"><img src="https://img.shields.io/badge/LinkedIn-1e2a44?style=for-the-badge&logo=linkedin&logoColor=f0f6fc" /></a>
+  <a href="mailto:tejashtejuhtj@gmail.com"><img src="https://img.shields.io/badge/Email-1e2a44?style=for-the-badge&logo=gmail&logoColor=f0f6fc" /></a>
+  <a href="https://github.com/Tejas-h-blitz"><img src="https://img.shields.io/badge/GitHub-1e2a44?style=for-the-badge&logo=github&logoColor=f0f6fc" /></a>
+</p>
 
 📍 Shivamogga, Karnataka, India
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e2a44&height=120&section=footer" width="100%" />
+
