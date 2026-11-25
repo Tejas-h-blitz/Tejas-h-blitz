@@ -23,42 +23,10 @@ CSE '28 @ IIIT Dharwad. I build backend systems that hold up under load.
 > Read the spec for what breaks it, not what it promises.
 > Design for the failure mode first.
 <br> Ship it, then measure — never trust an unmeasured number.
- 
- 
+
 ## 🧠 Tech Stack
- 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- 
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
- 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🗄️ Databases & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🤖 AI / RAG Tooling
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=java,py,react,nextjs,nodejs,fastapi,aws,gcp,mongodb,postgres&theme=dark&perline=10" />
 
 ## 🔥 Featured Projects
 
@@ -73,17 +41,8 @@ A full-stack AI career coach that conducts realistic mock interviews and scores 
 ### 🧮 Querion — AI SQL Query Optimizer
 An AI-assisted SQL optimizer that parses queries into an AST using sqlglot and simulates hypothetical indexes with HypoPG. Streams optimization reasoning via SSE, renders visual query plans with D3.js, and shows AI-suggested rewrites in a Monaco diff viewer.
 **Tech:** sqlglot • HypoPG • Gemini AI • Next.js • FastAPI • PostgreSQL • D3.js
- 
 
-## 🌱 Open Source
 
-### ✅ Checkstyle
-Fixed [#21177](https://github.com/checkstyle/checkstyle/issues/21177): the test input violation comment parser now auto-escapes `[` and `]` regex metacharacters, matching how parentheses and curly braces were already handled. Followed up by cleaning up the 27 affected input files and removing the now-unneeded `ArrayBracketNoWhitespace` suppression.
-**Tech:** Java • Regex • Checkstyle test infrastructure
-
-### 🔍 AutoMQ
-Reviewed [PR #3528](https://github.com/AutoMQ/automq/pull/3528), a Java `CompletableFuture` refactoring in AutoMQ, the cloud-native Kafka alternative built on object storage.
-**Tech:** Java • Async programming • Distributed messaging
 
 ## 🤝 Connect With Me
 
